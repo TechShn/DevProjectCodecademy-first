@@ -1,0 +1,26 @@
+header {
+    color: white;
+    background-color: blue;
+    text-align: center;
+    margin-top: 75px;
+    padding: 100px 0px;
+}
+
+h1 {
+    color: orangered;
+}
+
+#gritter-banner {
+    border: 2px solid orangered;
+    width: 100px;
+    height: 100px;
+}
+
+#gritter {
+    color: blue;
+    font-size: 100px;
+}
+
+.bold {
+    font-weight: bold;
+}
